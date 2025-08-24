@@ -1,11 +1,11 @@
-# 🏡 House Price Prediction
+#  House Price Prediction
 
 This project predicts the **price of houses** based on features such as number of bedrooms, bathrooms, living area, and year built.  
 It uses **Linear Regression** as the predictive model after performing **data cleaning, outlier removal, and exploratory data analysis (EDA)**.  
 
 ---
 
-## 🔹 Features of the Project
+##  Features of the Project
 - Data Cleaning:
   - Removed irrelevant columns (`date`, `street`, `city`, `statezip`, `country`)
   - Outlier detection & removal using **IQR method**
@@ -20,7 +20,7 @@ It uses **Linear Regression** as the predictive model after performing **data cl
 
 ---
 
-## 🔹 Dataset
+##  Dataset
 The dataset (`house_price_data.csv`) contains information such as:
 - **Price**  
 - **Bedrooms**  
@@ -33,7 +33,7 @@ The dataset (`house_price_data.csv`) contains information such as:
 
 ---
 
-## 🔹 Tech Stack
+##  Tech Stack
 - **Language**: Python  
 - **Libraries**:
   - numpy
